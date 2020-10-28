@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+IT Engineer - Automation Guru
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Don't do it twice
+Doc is the code
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Contact me on social networks
